@@ -53,3 +53,13 @@ class Solution:
 #             if nums.count(n) > len(nums)//3:
 #                 res.append(n)
 #         return res 
+
+
+# O(n) space complexity
+# from collections import Counter
+# class Solution:
+#     def majorityElement(self, nums: List[int]) -> List[int]:
+#         n = len(nums)
+#         threshold = n // 3
+#         freq = Counter(nums)                 # count frequencies
+#         return [num for num, cnt in freq.items() if cnt > threshold]
