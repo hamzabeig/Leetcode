@@ -18,6 +18,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,9 +53,11 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
