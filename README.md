@@ -50,9 +50,11 @@ This repo includes the solution code for leetcode questions, i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
