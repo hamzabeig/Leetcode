@@ -9,6 +9,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -25,11 +26,13 @@ This repo includes the solution code for leetcode questions, i solved
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
