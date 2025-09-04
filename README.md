@@ -7,6 +7,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
@@ -26,12 +27,14 @@ This repo includes the solution code for leetcode questions, i solved
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -66,6 +69,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
