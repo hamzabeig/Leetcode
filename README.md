@@ -6,6 +6,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
@@ -64,6 +66,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
