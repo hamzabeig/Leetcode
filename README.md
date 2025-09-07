@@ -6,6 +6,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamzabeig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
@@ -25,6 +26,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamzabeig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
@@ -67,6 +69,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hamzabeig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
