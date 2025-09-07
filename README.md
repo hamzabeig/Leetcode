@@ -8,6 +8,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
@@ -36,6 +37,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hamzabeig/Leetcode/tree/master/0242-valid-anagram) |
@@ -63,6 +65,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
