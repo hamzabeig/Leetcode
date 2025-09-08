@@ -9,6 +9,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0011-container-with-most-water](https://github.com/hamzabeig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -22,6 +23,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
@@ -75,6 +77,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0011-container-with-most-water](https://github.com/hamzabeig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,4 +107,12 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
