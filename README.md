@@ -13,6 +13,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
@@ -26,6 +27,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
