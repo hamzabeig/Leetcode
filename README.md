@@ -10,6 +10,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hamzabeig/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -109,6 +110,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Simulation
 |  |
