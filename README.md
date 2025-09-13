@@ -18,6 +18,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/hamzabeig/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
@@ -115,6 +117,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +138,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hamzabeig/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/hamzabeig/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
