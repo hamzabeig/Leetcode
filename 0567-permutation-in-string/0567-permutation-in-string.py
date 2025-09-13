@@ -8,12 +8,29 @@ class Solution:
             count1[ord(s1[i])-ord('a')] +=1
         for i in range(len(s1)):
             count2[ord(s2[i])-ord('a')] +=1
-
-        if count1 == count2:
-            return True
-        for i in range(len(s1),len(s2)):
-            count2[ord(s2[i])-ord('a')] +=1
-            count2[ord(s2[i-len(s1)])-ord('a')] -=1
-            if count1==count2:
+        matches= 0
+        for i in range(26):
+            if count1[i]==count2[i]:
+                matches+=1
+        l=0
+        for r in range(len(s1),len(s2)):
+            if matches==26:
                 return True
-        return False
+            index = ord(s2[r])-ord('a')
+            count2[index] +=1
+            if count1[index]==count2[index]:
+                matches+=1
+            # if it was equal before but now increased
+            elif count1[index] +1 ==count2[index]:
+                matches-=1
+            index = ord(s2[l])-ord('a')
+            count2[index]-=1
+            if count1[index]==count2[index]:
+                matches+=1
+            # if it was equal before but now reduced
+            elif count1[index]-1==count2[index]:
+                matches-=1
+            l+=1
+        return matches == 26
+
+    
