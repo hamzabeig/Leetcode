@@ -26,6 +26,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
@@ -129,6 +130,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
