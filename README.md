@@ -142,6 +142,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/hamzabeig/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/hamzabeig/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
@@ -166,6 +167,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hamzabeig/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -175,4 +177,8 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hamzabeig/Leetcode/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hamzabeig/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
