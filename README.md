@@ -192,5 +192,10 @@ This repo includes the solution code for leetcode questions, i solved
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
