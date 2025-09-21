@@ -83,16 +83,19 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,4 +205,8 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
