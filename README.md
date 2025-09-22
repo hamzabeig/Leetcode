@@ -37,6 +37,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -211,9 +213,14 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
