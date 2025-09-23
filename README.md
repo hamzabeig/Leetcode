@@ -207,6 +207,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hamzabeig/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
 ## Recursion
