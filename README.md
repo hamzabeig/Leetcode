@@ -88,6 +88,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,4 +230,8 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
