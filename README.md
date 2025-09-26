@@ -83,6 +83,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/hamzabeig/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -93,6 +94,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/hamzabeig/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -102,6 +104,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/hamzabeig/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -224,6 +227,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/hamzabeig/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Memoization
