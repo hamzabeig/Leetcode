@@ -1,4 +1,4 @@
-def dfs(graph, start):
+def dfs(graph):
     visited = set()
     result = []
 
@@ -11,7 +11,9 @@ def dfs(graph, start):
         for neighbor in graph[node]:
             dfs_visit(neighbor)
 
-    dfs_visit(start)
+    for v in graph:
+        if v not in visited:
+            dfs_visit(v)
     return result
 
 
@@ -25,4 +27,4 @@ graph = {
     'F': []
 }
 
-print("DFS Traversal starting from A:", dfs(graph, 'A'))
+print("DFS Traversal starting from A:", dfs(graph))
