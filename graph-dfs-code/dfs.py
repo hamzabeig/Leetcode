@@ -27,4 +27,4 @@ graph = {
     'F': []
 }
 
-print("DFS Traversal starting from A:", dfs(graph))
+print("DFS Traversal for undirected, disconnected graph", dfs(graph))
