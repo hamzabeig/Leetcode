@@ -35,6 +35,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -165,6 +166,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
@@ -242,6 +244,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search Tree
 |  |
