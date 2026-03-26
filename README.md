@@ -31,6 +31,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -171,6 +172,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Stack
 |  |
 | ------- |
