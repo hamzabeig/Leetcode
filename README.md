@@ -25,6 +25,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0219-contains-duplicate-ii](https://github.com/hamzabeig/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/hamzabeig/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/hamzabeig/Leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -134,6 +135,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/hamzabeig/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
