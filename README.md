@@ -34,6 +34,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +148,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/hamzabeig/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -168,6 +172,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
 | ------- |
