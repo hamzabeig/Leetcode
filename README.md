@@ -26,6 +26,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/hamzabeig/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/hamzabeig/Leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -61,6 +62,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0219-contains-duplicate-ii](https://github.com/hamzabeig/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hamzabeig/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
@@ -74,6 +76,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hamzabeig/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Counting
@@ -137,6 +140,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hamzabeig/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -162,6 +166,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Simulation
 |  |
