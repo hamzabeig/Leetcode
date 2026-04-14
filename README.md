@@ -25,6 +25,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0219-contains-duplicate-ii](https://github.com/hamzabeig/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hamzabeig/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/hamzabeig/Leetcode/tree/master/0463-island-perimeter) |
@@ -63,6 +64,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0219-contains-duplicate-ii](https://github.com/hamzabeig/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hamzabeig/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +80,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0217-contains-duplicate](https://github.com/hamzabeig/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/hamzabeig/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/hamzabeig/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -170,6 +173,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -183,6 +187,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Stack
@@ -230,6 +235,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hamzabeig/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
