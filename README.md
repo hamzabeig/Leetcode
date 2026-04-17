@@ -37,6 +37,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hamzabeig/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hamzabeig/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +254,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0237-delete-node-in-a-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hamzabeig/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
