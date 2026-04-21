@@ -154,6 +154,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/hamzabeig/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/hamzabeig/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -170,6 +171,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/hamzabeig/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/hamzabeig/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -185,6 +187,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/hamzabeig/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/hamzabeig/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -204,6 +207,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0225-implement-stack-using-queues](https://github.com/hamzabeig/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamzabeig/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/hamzabeig/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
