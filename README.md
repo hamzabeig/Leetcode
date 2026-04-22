@@ -169,6 +169,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0125-valid-palindrome](https://github.com/hamzabeig/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/hamzabeig/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hamzabeig/Leetcode/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/hamzabeig/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/hamzabeig/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -207,6 +208,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0155-min-stack](https://github.com/hamzabeig/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hamzabeig/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamzabeig/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/hamzabeig/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/hamzabeig/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
@@ -269,6 +271,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/hamzabeig/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/hamzabeig/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
