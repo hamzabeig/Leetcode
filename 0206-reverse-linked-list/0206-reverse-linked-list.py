@@ -22,13 +22,15 @@ class Solution:
         if head.next== None:
             return head
 
-        new_head = self.reverseList(head.next)
+        newhead = self.reverseList(head.next)
         # print(head)
         head.next.next = head
         head.next = None
+
+        return newhead
         
         
-        return new_head
+        
         
         
         
