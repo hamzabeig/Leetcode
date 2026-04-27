@@ -30,7 +30,7 @@ class Solution:
         return head
     
 class Solution:
-    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def forward_rec_swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head == None or head.next == None:
             return head
         self.newhead = head.next
@@ -48,3 +48,31 @@ class Solution:
             swap(curr1, curr1.next)
             return self.newhead
         return swap (head, head)
+
+class Solution:
+    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head or not head.next:
+            return head
+        def rec(head):
+
+            if not head:
+                return None
+            if not head.next:
+                return head
+
+            curr1 = head
+            curr2 = head.next
+
+            newhead =rec(curr2.next)
+            
+            curr2.next = curr1
+            curr1.next = newhead
+            
+            return curr2
+        return rec(head)
+            
+            
+
+        
+        
+
