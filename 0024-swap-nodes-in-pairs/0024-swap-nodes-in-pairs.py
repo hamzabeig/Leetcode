@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def itr_swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if head == None or head.next == None:
             return head
 
@@ -28,4 +28,23 @@ class Solution:
             temp.next = c2
 
         return head
-        
+    
+class Solution:
+    def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if head == None or head.next == None:
+            return head
+        self.newhead = head.next
+        def swap(temp, curr):
+            if not curr or not curr.next:
+                return curr
+            
+            curr1 = curr
+            curr2 = curr.next
+            
+            curr1.next = curr2.next
+            curr2.next = curr1
+            if temp != curr1:
+                temp.next = curr2
+            swap(curr1, curr1.next)
+            return self.newhead
+        return swap (head, head)
