@@ -30,6 +30,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/hamzabeig/Leetcode/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/hamzabeig/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/hamzabeig/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
@@ -225,6 +226,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/hamzabeig/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/hamzabeig/Leetcode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/hamzabeig/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
