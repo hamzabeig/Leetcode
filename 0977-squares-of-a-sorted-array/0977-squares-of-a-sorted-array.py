@@ -10,6 +10,6 @@ class Solution:
             else:
                 result.append(nums[l]**2)
                 l+=1
-        result.reverse()
-        return result
+        
+        return result[::-1]
         
