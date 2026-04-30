@@ -41,17 +41,17 @@ class Solution:
         then we add that power of x to result, otherwise increase x but
         don't add in result once least bit is 0
         '''
-        def fast_pow(x, n):
-            res = 1.0
-            while n:
-                if n % 2 == 1:
-                    res *= x
-                x *= x
-                n //= 2
-            return res
-        
         if n < 0:
             x = 1 / x
             n = -n
         
-        return fast_pow(x, n)
+        res = 1.0
+
+        while n:
+            if n % 2 == 1:
+                res *= x
+            x *= x
+            n //= 2
+        return res
+    
+    
