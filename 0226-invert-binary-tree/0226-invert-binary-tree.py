@@ -34,8 +34,8 @@ class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         # base case
         if not root:
-            return
-        #swapping
+            return None
+        # swapping
         temp = root.left
         root.left = root.right
         root.right = temp
