@@ -198,6 +198,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hamzabeig/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
@@ -276,6 +277,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/hamzabeig/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/hamzabeig/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/hamzabeig/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/hamzabeig/Leetcode/tree/master/0394-decode-string) |
