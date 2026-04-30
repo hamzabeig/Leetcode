@@ -5,7 +5,7 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+    def itr_invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if not root:
             return None
         
@@ -17,4 +17,31 @@ class Solution:
         self.invertTree(root.right)
 
         return root
-        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        # base case
+        if not root:
+            return
+        #swapping
+        temp = root.left
+        root.left = root.right
+        root.right = temp
+
+        self.invertTree(root.left)
+        self.invertTree(root.right)
+
+        return root
+
