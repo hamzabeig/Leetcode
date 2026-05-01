@@ -204,6 +204,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0050-powx-n](https://github.com/hamzabeig/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/hamzabeig/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -255,6 +256,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hamzabeig/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/hamzabeig/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 ## Design
 |  |
@@ -283,6 +285,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0050-powx-n](https://github.com/hamzabeig/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/hamzabeig/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hamzabeig/Leetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/hamzabeig/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/hamzabeig/Leetcode/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
