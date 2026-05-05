@@ -34,6 +34,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/hamzabeig/Leetcode/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/hamzabeig/Leetcode/tree/master/0860-design-circular-queue) |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hamzabeig/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -88,6 +89,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hamzabeig/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 | [0917-boats-to-save-people](https://github.com/hamzabeig/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hamzabeig/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -241,6 +243,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -321,4 +324,24 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/hamzabeig/Leetcode/tree/master/0113-path-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
