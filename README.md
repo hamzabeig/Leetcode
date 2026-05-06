@@ -14,6 +14,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/hamzabeig/Leetcode/tree/master/0136-single-number) |
@@ -109,6 +110,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0100-same-tree](https://github.com/hamzabeig/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/hamzabeig/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -136,6 +138,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0100-same-tree](https://github.com/hamzabeig/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/hamzabeig/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hamzabeig/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -307,6 +310,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
@@ -327,6 +331,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
