@@ -244,6 +244,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hamzabeig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/hamzabeig/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/hamzabeig/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
@@ -275,6 +276,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hamzabeig/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/hamzabeig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/hamzabeig/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hamzabeig/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/hamzabeig/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -333,11 +335,13 @@ This repo includes the solution code for leetcode questions, i solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hamzabeig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hamzabeig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
