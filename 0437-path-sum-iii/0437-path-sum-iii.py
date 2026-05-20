@@ -5,7 +5,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+    #nlogn
+    def pathSum_o(self, root: Optional[TreeNode], targetSum: int) -> int:
         self.count = 0
         def dfs(root, path):
             if not root:
@@ -22,5 +23,19 @@ class Solution:
 
         dfs(root, [])
         return self.count
-
-        
+    #O(n)
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+        self.pref = {0:1}
+        def dfs(root, curr_max):
+            if not root:
+                return 0
+            
+            curr_max += root.val
+            count = self.pref.get(curr_max-targetSum, 0)
+            self.pref[curr_max] = self.pref.get(curr_max,0) + 1
+            count += dfs(root.left, curr_max)
+            count += dfs(root.right, curr_max)
+            self.pref[curr_max]-=1
+            
+            return count
+        return dfs(root, 0)
