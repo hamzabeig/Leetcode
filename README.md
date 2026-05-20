@@ -124,6 +124,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0543-diameter-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hamzabeig/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0463-island-perimeter](https://github.com/hamzabeig/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hamzabeig/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0543-diameter-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hamzabeig/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -325,6 +328,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/hamzabeig/Leetcode/tree/master/0463-island-perimeter) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/hamzabeig/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
