@@ -18,6 +18,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hamzabeig/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/hamzabeig/Leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hamzabeig/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/hamzabeig/Leetcode/tree/master/0198-house-robber) |
@@ -234,6 +235,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0050-powx-n](https://github.com/hamzabeig/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/hamzabeig/Leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hamzabeig/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/hamzabeig/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hamzabeig/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hamzabeig/Leetcode/tree/master/0268-missing-number) |
@@ -246,6 +248,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hamzabeig/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hamzabeig/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hamzabeig/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hamzabeig/Leetcode/tree/master/0232-implement-queue-using-stacks) |
