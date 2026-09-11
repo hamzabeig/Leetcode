@@ -13,6 +13,7 @@ This repo includes the solution code for leetcode questions, i solved
 | [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/hamzabeig/Leetcode/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hamzabeig/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hamzabeig/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -246,6 +247,7 @@ This repo includes the solution code for leetcode questions, i solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/hamzabeig/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hamzabeig/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hamzabeig/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hamzabeig/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hamzabeig/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -259,6 +261,7 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hamzabeig/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hamzabeig/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,4 +393,8 @@ This repo includes the solution code for leetcode questions, i solved
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/hamzabeig/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
