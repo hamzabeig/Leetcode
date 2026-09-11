@@ -8,9 +8,10 @@ class Solution:
                 start, v =stack.pop()
                 max_a = max(max_a, (i-start)*v)
             stack.append([start, h])
-
+        n =  len(heights)
         for height in stack:
-            max_a = max(max_a, (len(heights)-height[0])*height[1]   )
+            
+            max_a = max(max_a, (n-height[0])*height[1])
 
         return max_a
 
