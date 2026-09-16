@@ -6,6 +6,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hamzabeig/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/hamzabeig/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hamzabeig/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/hamzabeig/Leetcode/tree/master/0018-4sum) |
@@ -218,6 +219,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hamzabeig/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hamzabeig/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hamzabeig/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/hamzabeig/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -373,6 +375,7 @@ This repo includes the solution code for leetcode questions, i solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hamzabeig/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/hamzabeig/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hamzabeig/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0912-sort-an-array](https://github.com/hamzabeig/Leetcode/tree/master/0912-sort-an-array) |
