@@ -4,35 +4,15 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def itr_reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        tmp = head
-        prev = None
+    def reverseList(self, head: ListNode | None) -> ListNode | None:
         curr = head
+        prev = None
+        
         while curr:
-            tmp = curr.next
+            temp = curr.next
             curr.next = prev
             prev = curr
-            curr = tmp
+            curr = temp
+
         return prev
-    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # print(head)
-        if head == None:
-            return head
-
-        if head.next== None:
-            return head
-
-        newhead = self.reverseList(head.next)
-        # print(head)
-        head.next.next = head
-        head.next = None
-
-        return newhead
-        
-        
-        
-        
-        
-        
-
-        
+            
